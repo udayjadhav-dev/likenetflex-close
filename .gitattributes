@@ -1,0 +1,2 @@
+backend-api/models/**/*.pt filter=lfs diff=lfs merge=lfs -text
+beckend-api/models//**/*.pt filter=lfs diff=lfs merge=lfs -text
