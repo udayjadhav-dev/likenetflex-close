@@ -12,6 +12,6 @@ An operational, GDPR-compliant streaming feedback evaluation architecture design
   - frontend-ui/: Resilient React.js + Vite responsive streaming dashboard engine mapping dynamic local profiles and telemetry feedback interfaces.
 
 - Verified Performance Metrics
-  - Tensor Footprint Compression: ~48% scaling optimization.
-  - Local Hardware Compute Latency: Executes efficiently under ~300ms directly on standalone MacBook Pro compute cores.
+  - Tensor Footprint Compression: 48% scaling optimization.
+  - Local Hardware Compute Latency: Executes efficiently under 300ms directly on standalone MacBook Pro compute cores.
   - Network Packet Traversal: 100% localized air-gapped isolation loop (Zero telemetry leaks).
